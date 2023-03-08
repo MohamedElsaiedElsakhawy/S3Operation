@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "f5C2JATjUcMWBJQoyVWxxBHtA1Ho90BhqIz2kl1X/OlVqkYivb11TH0NgBdrMb/nb9vsd/yGaOPaKvFwtSeP5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohamed Elsakhawy\\Desktop\\S3Operations\\S3Operations\\S3\\S3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\awssdk.core\\3.7.105.13\\awssdk.core.3.7.105.13.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\awssdk.s3\\3.7.103.21\\awssdk.s3.3.7.103.21.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Mohamed Elsakhawy\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

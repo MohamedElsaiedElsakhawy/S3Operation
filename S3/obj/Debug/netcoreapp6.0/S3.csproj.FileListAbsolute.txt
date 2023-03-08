@@ -1,0 +1,12 @@
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.AssemblyInfoInputs.cache
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.AssemblyInfo.cs
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\bin\Debug\netcoreapp6.0\S3.deps.json
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\bin\Debug\netcoreapp6.0\S3.dll
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\bin\Debug\netcoreapp6.0\S3.pdb
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.dll
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\refint\S3.dll
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\S3.pdb
+C:\Users\Mohamed Elsakhawy\Desktop\S3Operations\S3Operations\S3\obj\Debug\netcoreapp6.0\ref\S3.dll
